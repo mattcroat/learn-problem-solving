@@ -4,12 +4,10 @@ Slides for [Learn problem solving](https://joyofcode.xyz/learn-problem-solving).
 
 ## Usage
 
-```shell
-npm i
-```
+📦️ Install dependencies and run presentation.
 
 ```shell
-npm run dev
+npm i && npm run dev
 ```
 
 ## Keyboard
