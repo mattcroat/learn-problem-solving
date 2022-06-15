@@ -4,7 +4,7 @@ Slides for [Learn problem solving](https://joyofcode.xyz/learn-problem-solving).
 
 ## Usage
 
-📦️ Install dependencies and run presentation.
+📦️ Install dependencies and start presentation.
 
 ```shell
 npm i && npm run dev
